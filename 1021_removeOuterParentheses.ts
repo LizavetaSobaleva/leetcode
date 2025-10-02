@@ -17,4 +17,4 @@ function removeOuterParentheses(s: string): string {
   return result;
 }
 
-console.log(removeOuterParentheses("()()"));
+console.log(removeOuterParentheses("(()())"));
